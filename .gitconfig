@@ -1,0 +1,5 @@
+[user]
+	name = Nick Mayes
+	email = git@nickmayes.com
+[core]
+	editor = nano
